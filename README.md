@@ -44,9 +44,9 @@ Paraphrasers replace synonyms but leave the AI's perfect-pattern syntax complete
 ## 📄 License
 This project is open-source and released under the MIT License. Feel free to adapt the prompt to your specific linguistic needs.
 
----
+
 *Disclaimer: Using this tool for academic fraud (e.g., stealing others' work) goes against the ethics of this project. The purpose is to demonstrate the flaws in current AI detectors and to allow human creators to clean up assistively generated drafts.*
-```
+
 **INPUT TEXT TO REWRITE:**
 [PASTE YOUR TEXT HERE]
-```
+
