@@ -26,7 +26,7 @@ AI detectors measure two metrics: Perplexity (word predictability) and Burstines
 ### 5. Data Integrity
 - DO NOT change, approximate, or remove any specific numbers, names, percentages, or technical terms present in the source text. They must be preserved exactly, just placed within the new asymmetric sentence structures.
 
----
+
 **INPUT TEXT TO REWRITE:**
 [PASTE YOUR TEXT HERE]
-```
+
